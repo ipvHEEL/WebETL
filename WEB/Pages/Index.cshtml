@@ -1,0 +1,79 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "ETL Dashboard";
+}
+
+<h2>ETL Dashboard</h2>
+
+<table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th>Пакет</th>
+            <th>Статус</th>
+            <th>Начало</th>
+            <th>Окончание</th>
+            <th>Длительность</th>
+            <th>Запущен через</th>
+        </tr>
+    </thead>
+    <tbody id="etl-table-body">
+        
+    </tbody>
+</table>
+
+<script>
+    async function loadEtlStatus() {
+        try {
+            const response = await fetch('/api/etl/status');
+            if (!response.ok) throw new Error('Ошибка сети: ' + response.status);
+
+            const data = await response.json();
+            const tbody = document.getElementById('etl-table-body');
+            tbody.innerHTML = '';
+
+            data.forEach(job => {
+               
+                const start = new Date(job.start);
+                const end = job.end ? new Date(job.end) : null;
+                const duration = end
+                    ? Math.round((end - start) / 1000) + ' сек'
+                    : '—';
+                const startStr = start.toLocaleString('ru-RU');
+                const endStr = end ? end.toLocaleString('ru-RU') : '—';
+
+                let statusClass = '';
+                if (job.status === 'Success') statusClass = 'status-success';
+                else if (job.status === 'Failed') statusClass = 'status-failed';
+                else if (job.status === 'Running') statusClass = 'status-running';
+
+                tbody.innerHTML += `
+                    <tr>
+                        <td>${job.package}</td>
+                        <td class="${statusClass}"><b>${job.status}</b></td>
+                        <td>${startStr}</td>
+                        <td>${endStr}</td>
+                        <td>${duration}</td>
+                        <td>${job.triggered_by}</td>
+                    </tr>
+                `;
+            });
+        } catch (error) {
+            console.error('Ошибка загрузки данных:', error);
+            document.getElementById('etl-table-body').innerHTML =
+                `<tr><td colspan="5">Ошибка загрузки данных: ${error.message}</td></tr>`;
+        }
+    }
+
+
+    loadEtlStatus();
+    setInterval(loadEtlStatus, 30000);
+</script>
+
+<style>
+    .status-success { color: green; }
+    .status-failed { color: red; }
+    .status-running { color: orange; }
+    table { margin-top: 20px; }
+    th, td { text-align: left; }
+</style>

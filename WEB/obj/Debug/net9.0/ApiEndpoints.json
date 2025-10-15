@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ETLController",
+    "Method": "GetStatus",
+    "RelativePath": "api/ETL/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
