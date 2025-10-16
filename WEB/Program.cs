@@ -19,5 +19,8 @@ app.UseAuthorization();
 
 app.MapControllers(); 
 app.MapRazorPages();
-
+if (app.Environment.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage(); // покажет ошибку в браузере
+}
 app.Run();
