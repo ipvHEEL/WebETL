@@ -1579,11 +1579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.d.rogov\\source\\repos\\SSISDashboard\\SSISDashboard.csproj",
+      "projectUniqueName": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\SSISDashboard.csproj",
       "projectName": "SSISDashboard",
-      "projectPath": "C:\\Users\\a.d.rogov\\source\\repos\\SSISDashboard\\SSISDashboard.csproj",
+      "projectPath": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\SSISDashboard.csproj",
       "packagesPath": "C:\\Users\\a.d.rogov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.d.rogov\\source\\repos\\SSISDashboard\\obj\\",
+      "outputPath": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
