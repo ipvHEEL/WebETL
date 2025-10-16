@@ -8,8 +8,6 @@
         <UseWinAuth>false</UseWinAuth>
         <WinAuthUserName />
         <WinAuthDomain />
-        <ServerName>11-VM-DWH01.agrohold.ru</ServerName>
-        <PathOnServer>/SSISDB/ETL/ETLProcess</PathOnServer>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
@@ -18,7 +16,7 @@
           <ConfigurationSetting>
             <Id>LastModifiedTime</Id>
             <Name>LastModifiedTime</Name>
-            <Value xsi:type="xsd:dateTime">2025-10-15T05:23:53.0167923Z</Value>
+            <Value xsi:type="xsd:dateTime">2025-10-16T07:11:13.9650582Z</Value>
           </ConfigurationSetting>
         </ParameterConfigurationSensitiveValues>
       </Options>
