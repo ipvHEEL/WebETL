@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DzKR0cGmB2s=",
+  "dgSpecHash": "sL3pS4wyS6c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a.d.rogov\\source\\repos\\SSISDashboard\\SSISDashboard.csproj",
+  "projectFilePath": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\SSISDashboard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a.d.rogov\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\a.d.rogov\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -42,9 +42,9 @@
       "code": "NU1900",
       "level": "Warning",
       "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/msdata/_packaging/Microsoft.PackageHub/nuget/v3/index.json.",
-      "projectPath": "C:\\Users\\a.d.rogov\\source\\repos\\SSISDashboard\\SSISDashboard.csproj",
+      "projectPath": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\SSISDashboard.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\a.d.rogov\\source\\repos\\SSISDashboard\\SSISDashboard.csproj",
+      "filePath": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\SSISDashboard.csproj",
       "targetGraphs": []
     }
   ]

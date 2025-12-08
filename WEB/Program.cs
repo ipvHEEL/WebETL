@@ -1,7 +1,9 @@
+//SSISDashboard/Program.cs
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers(); 
 builder.Services.AddRazorPages();
+builder.Services.AddHttpClient();
 
 var app = builder.Build();
 
@@ -18,5 +20,8 @@ app.UseAuthorization();
 
 app.MapControllers(); 
 app.MapRazorPages();
-
+if (app.Environment.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage(); // покажет ошибку в браузере
+}
 app.Run();
