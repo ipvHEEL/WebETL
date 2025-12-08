@@ -101,8 +101,7 @@
               "RelativeToolTip": "Controllers\\DataSyncController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T11:36:32.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T11:36:32.968Z"
             },
             {
               "$type": "Document",
@@ -162,8 +161,7 @@
               "RelativeToolTip": "Controllers\\ChechCollisions.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAiwAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:11:05.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T05:11:05.567Z"
             },
             {
               "$type": "Document",
@@ -195,8 +193,8 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Index.cshtml*",
-              "RelativeToolTip": "Pages\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAADgAAAAAAAAAAADgv08AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-15T07:01:41.314Z",
