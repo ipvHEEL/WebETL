@@ -97,9 +97,11 @@ public class DataSyncController : ControllerBase
                     erpCount = Convert.ToInt64(await cmd.ExecuteScalarAsync());
                     sumErpCount += erpCount;
                 }
+
+                
             }
 
-            bool isSynced = sumErpCount == sumDwhCount;
+                bool isSynced = sumErpCount == sumDwhCount;
 
             return Ok(new
             {

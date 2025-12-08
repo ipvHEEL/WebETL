@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\datasynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\datasynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\chechcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\chechcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\datasynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\datasynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\sync_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,13 +93,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataSyncController.cs",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\DataSyncController.cs",
               "RelativeDocumentMoniker": "Controllers\\DataSyncController.cs",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\DataSyncController.cs",
               "RelativeToolTip": "Controllers\\DataSyncController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T11:36:32.968Z",
               "EditorCaption": ""
@@ -126,8 +126,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAB8VAAAAAAAAAAAwwBEVAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-12T10:35:59.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T10:35:59.563Z"
             },
             {
               "$type": "Document",
@@ -139,8 +138,7 @@
               "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T05:32:00.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T05:32:00.563Z"
             },
             {
               "$type": "Document",
@@ -152,12 +150,11 @@
               "RelativeToolTip": "Controllers\\sync_reports.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:20:58.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T05:20:58.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ChechCollisions.cs",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\ChechCollisions.cs",
               "RelativeDocumentMoniker": "Controllers\\ChechCollisions.cs",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T06:59:13.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:59:13.054Z"
             },
             {
               "$type": "Document",
@@ -191,8 +187,7 @@
               "RelativeToolTip": "Controllers\\ETLController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:00:52.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:00:52.128Z"
             },
             {
               "$type": "Document",
@@ -202,7 +197,7 @@
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Index.cshtml*",
               "RelativeToolTip": "Pages\\Index.cshtml*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAADgv08AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-15T07:01:41.314Z",
               "EditorCaption": ""
@@ -217,8 +212,7 @@
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:34.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:58:34.029Z"
             },
             {
               "$type": "Document",
@@ -230,8 +224,7 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:41.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:58:41.045Z"
             },
             {
               "$type": "Document",
@@ -243,8 +236,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:00:03.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:00:03.976Z"
             },
             {
               "$type": "Document",
@@ -256,8 +248,7 @@
               "RelativeToolTip": "SSISDashboard.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-15T07:00:06.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:00:06.522Z"
             },
             {
               "$type": "Document",
@@ -269,8 +260,7 @@
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:29.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:58:29.907Z"
             },
             {
               "$type": "Document",
@@ -282,8 +272,7 @@
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:33.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:58:33.201Z"
             },
             {
               "$type": "Document",
@@ -295,8 +284,7 @@
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T08:49:38.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T08:49:38.881Z"
             },
             {
               "$type": "Document",
@@ -308,8 +296,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T07:22:52.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:22:52.791Z"
             }
           ]
         }
