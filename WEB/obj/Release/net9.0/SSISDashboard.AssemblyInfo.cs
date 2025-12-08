@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SSISDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cabbf189c0b920d03f20fea9b9c252f38569152")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+495f8202b93ad635fc947621c445368313bcfc2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SSISDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SSISDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

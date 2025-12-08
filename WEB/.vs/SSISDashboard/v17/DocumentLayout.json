@@ -3,32 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\etlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\etlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\datasynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\datasynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\ssisdashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:ssisdashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\chechcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\chechcollisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\sync_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\sync_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\controllers\\etlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:controllers\\etlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\ssisdashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:ssisdashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,12 +62,12 @@
       "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|c:\\users\\a.d.rogov\\source\\repos\\webetl\\web\\python\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C08204FD-2357-4A1A-9E8C-94A055A6427C}|SSISDashboard.csproj|solutionrelative:python\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,45 +88,128 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "DataSyncController.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\DataSyncController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DataSyncController.cs",
+              "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\DataSyncController.cs",
+              "RelativeToolTip": "Controllers\\DataSyncController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:36:32.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Python\\main.py",
+              "RelativeDocumentMoniker": "Python\\main.py",
+              "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Python\\main.py",
+              "RelativeToolTip": "Python\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA5AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-11-12T13:07:55.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAB8VAAAAAAAAAAAwwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-12T10:35:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T05:32:00.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sync_reports.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\sync_reports.cs",
+              "RelativeDocumentMoniker": "Controllers\\sync_reports.cs",
+              "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\sync_reports.cs",
+              "RelativeToolTip": "Controllers\\sync_reports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:20:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChechCollisions.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\ChechCollisions.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChechCollisions.cs",
+              "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\ChechCollisions.cs",
+              "RelativeToolTip": "Controllers\\ChechCollisions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:11:05.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T06:59:13.054Z"
+              "WhenOpened": "2025-10-15T06:59:13.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ETLController.cs",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\ETLController.cs",
               "RelativeDocumentMoniker": "Controllers\\ETLController.cs",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Controllers\\ETLController.cs",
               "RelativeToolTip": "Controllers\\ETLController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwDAAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T07:00:52.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:01:41.314Z"
+              "WhenOpened": "2025-10-15T07:01:41.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Pages\\Error.cshtml",
@@ -111,11 +217,12 @@
               "RelativeToolTip": "Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:34.029Z"
+              "WhenOpened": "2025-10-15T07:58:34.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
@@ -123,23 +230,25 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:41.045Z"
+              "WhenOpened": "2025-10-15T07:58:41.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:00:03.976Z"
+              "WhenOpened": "2025-10-15T07:00:03.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "SSISDashboard.csproj",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\SSISDashboard.csproj",
               "RelativeDocumentMoniker": "SSISDashboard.csproj",
@@ -147,11 +256,12 @@
               "RelativeToolTip": "SSISDashboard.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-15T07:00:06.522Z"
+              "WhenOpened": "2025-10-15T07:00:06.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
@@ -159,43 +269,47 @@
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:29.907Z"
+              "WhenOpened": "2025-10-15T07:58:29.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T07:58:33.201Z"
+              "WhenOpened": "2025-10-15T07:58:33.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T08:49:38.881Z"
+              "WhenOpened": "2025-10-15T08:49:38.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\a.d.rogov\\source\\repos\\WebETL\\WEB\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T07:22:52.791Z"
+              "WhenOpened": "2025-10-15T07:22:52.791Z",
+              "EditorCaption": ""
             }
           ]
         }

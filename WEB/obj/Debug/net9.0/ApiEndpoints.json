@@ -1,9 +1,39 @@
 [
   {
+    "ContainingType": "ChechCollisions",
+    "Method": "GetJobLog",
+    "RelativePath": "api/ChechCollisions/job-log",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataSyncController",
+    "Method": "GetSyncStatus",
+    "RelativePath": "api/DataSync/sync-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ETLController",
     "Method": "GetStatus",
     "RelativePath": "api/ETL/status",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SSISDashboard.Controllers.SyncReportsController",
+    "Method": "Sync",
+    "RelativePath": "api/SyncReports/sync",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [],

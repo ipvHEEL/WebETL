@@ -20,7 +20,7 @@ public class ETLController : ControllerBase
         using var conn = new SqlConnection(_connStr);
         await conn.OpenAsync();
         var cmd = new SqlCommand(@"
-        SELECT
+        SELECT TOP 100
             e.execution_id,
             e.package_name,
             e.start_time,
@@ -66,3 +66,4 @@ public class ETLController : ControllerBase
         return Ok(results);
     }
 }
+

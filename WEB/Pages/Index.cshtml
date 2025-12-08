@@ -5,7 +5,14 @@
 }
 
 <h2>ETL Dashboard</h2>
-
+<div class='Sync'>
+    <button onclick="syncReports()"  style="width: 100%">Обновить данные в локальной папке отчетов</button>
+    <br></br>
+    <button style="width: 100%"> Проверить совпадение таблиц и коллизии</button>
+</div>
+<div id="sync-status" style="margin: 15px 0; padding: 10px; border: 1px solid #ccc; background: #f9f9f9;">
+    <strong>Проверка синхронизации данных:</strong> <span id="sync-result">Загрузка...</span>
+</div>
 <table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr>
@@ -23,6 +30,73 @@
 </table>
 
 <script>
+        async function syncReports() {
+        try {
+            const res = await fetch('/api/syncreports/sync', { method: 'POST' });
+
+            let message = 'Неизвестная ошибка';
+
+            if (res.ok) {
+
+                const contentType = res.headers.get('content-type');
+                if (contentType && contentType.includes('application/json')) {
+                    const data = await res.json();
+                    message = data.Message || data.Status || 'Синхронизация выполнена';
+                } else {
+
+                    message = await res.text();
+                }
+            } else {
+                
+                const contentType = res.headers.get('content-type');
+                if (contentType && contentType.includes('application/json')) {
+                    const data = await res.json();
+                    message = data.Message || `Ошибка ${res.status}`;
+                } else {
+                    message = `Ошибка HTTP: ${res.status}`;
+                }
+            }
+
+            alert(message);
+        } catch (err) {
+            console.error('Ошибка при выполнении запроса:', err);
+            alert('Ошибка соединения или обработки ответа сервера.');
+        }
+    }
+</script>
+
+
+<script>
+
+        async function loadSyncStatus() {
+        try {
+            
+            const res = await fetch('/api/datasync/sync-status');
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+
+            const data = await res.json();
+
+            const resultEl = document.getElementById('sync-result');
+            if (data.isSynced) {
+                resultEl.innerHTML = `<span style="color: green;">52 таблицы синхранизованы (${data.sumDwhCount} строк)</span>`;
+            } else {
+                resultEl.innerHTML = `
+                    <span style="color: red;">
+                        Несоответствие: ERP=${data.sumErpCount}, DWH=${data.sumDwhCount} (разница: ${Math.abs(data.sumErpCount - data.sumDwhCount)})
+                    </span>
+                `;
+            }
+        } catch (err) {
+            console.error('Ошибка загрузки статуса синхронизации:', err);
+            document.getElementById('sync-result').textContent = 'Ошибка загрузки';
+        }
+    }
+
+
+    loadSyncStatus();
+
+    setInterval(loadSyncStatus, 30000);
+
     async function loadEtlStatus() {
         try {
             const response = await fetch('/api/etl/status');
