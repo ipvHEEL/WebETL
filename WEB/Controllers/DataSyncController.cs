@@ -28,7 +28,7 @@ public class DataSyncController : ControllerBase
     {
         try
         {
-            // 1. Получаем время последнего успешного ETL
+             
             long? lastExecutionId = null;
             DateTime? lastEndTime = null;
             using (var conn = new SqlConnection(_ssisConnStr))

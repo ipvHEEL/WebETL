@@ -10,6 +10,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SSISDashboard.Controllers.CurrentMonthProv",
+    "Method": "Index",
+    "RelativePath": "api/CurrentMonthProv",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DataSyncController",
     "Method": "GetSyncStatus",
     "RelativePath": "api/DataSync/sync-status",
